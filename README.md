@@ -9,13 +9,7 @@
 - Golang
 
 ### Contact With Me
-<a target="_blank" href="https://www.linkedin.com/in/tai-le-255029189/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank" href="mailto:letrong.tai242@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-
+- Email: letrong.tai242@gmail.com
+- Linkedin: https://www.linkedin.com/in/tai-le-255029189/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=letrongtai902&count_private=true)
