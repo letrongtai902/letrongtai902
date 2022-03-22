@@ -2,8 +2,6 @@
 - 🔭 I’m currently working on Backend Technologies (.net and golang)
 - 📫 How to reach me: letrong.tai242@gmail.com
 
-![](https://komarev.com/ghpvc/?username=letrongtai902)
-
 ### Skill and Experience
 - ASP .Net
 - Golang
