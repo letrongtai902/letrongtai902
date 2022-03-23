@@ -6,7 +6,7 @@
 - ASP .Net
 - Golang
 
-### Contact With Me
+### Contact with me
 - Email: letrong.tai242@gmail.com
 - Linkedin: https://www.linkedin.com/in/tai-le-255029189/
 
