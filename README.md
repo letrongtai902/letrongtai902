@@ -3,8 +3,8 @@
 - 📫 How to reach me: letrong.tai242@gmail.com
 
 ### Skill and Experience
-- ASP .Net
 - Golang
+- ASP .Net
 
 ### Contact with me
 - Email: letrong.tai242@gmail.com
