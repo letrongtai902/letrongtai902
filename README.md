@@ -8,6 +8,6 @@
 
 ### Contact with me
 - Email: letrong.tai242@gmail.com
-- Linkedin: https://www.linkedin.com/in/tai-le-255029189/
+- Linkedin: [https://www.linkedin.com/in/tai-le-255029189/](https://www.linkedin.com/in/le-trong-tai-60a88a266/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=letrongtai902&count_private=true)
