@@ -1,8 +1,10 @@
 ### Hi, I'm Tai (Maru) 👋
-- 🔭 I’m currently working on Backend Technologies (.net and golang)
+- 🔭 I’m currently working on Web Development, Desktop App (.net C#, Python)
 - 📫 How to reach me: letrong.tai242@gmail.com
 
 ### Skill and Experience
+- Window Application Development
+- Website Development
 - Golang
 - ASP .Net
 - JavaScript
