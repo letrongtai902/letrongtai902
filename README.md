@@ -7,6 +7,7 @@
 - Website Development
 - Golang
 - ASP .Net
+- Python
 - JavaScript
 
 ### Contact with me
