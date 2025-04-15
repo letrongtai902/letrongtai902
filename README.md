@@ -1,5 +1,5 @@
 ### Hi, I'm Tai 👋
-- 🔭 I’m currently working on Web Development, Desktop App (.net C#, Python)
+- 🔭 I’m currently working on Web Development, Desktop App, Automation Script (.net C#, Python)
 - 📫 How to reach me: letrong.tai242@gmail.com
 
 ### Skill and Experience
